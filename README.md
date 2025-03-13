@@ -13,7 +13,7 @@ Currently, I'm interested in the application of Natural Language Processing and 
 [![My languages](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,md,mysql&theme=light)](https://skillicons.dev)  
 
 #### Tools & Platforms  
-[![My Tools](https://skillicons.dev/icons?i=cloudflare,docker,eclipse,elasticsearch,gcp,github,gitlab,linux,mongodb,mysql,ubuntu,vscode&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=cloudflare,docker,eclipse,elasticsearch,gcp,github,gitlab,linux,mongodb,ubuntu,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
