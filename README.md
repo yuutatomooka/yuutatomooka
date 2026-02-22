@@ -10,7 +10,7 @@ Currently, I'm interested in the application of Natural Language Processing and 
 
 ### 🛠️ My Tech Stack  
 #### Languages  
-[![My languages](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,md,mysql&theme=light)](https://skillicons.dev)  
+[![My languages](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,md,r,latex,mysql&theme=light)](https://skillicons.dev)  
 
 #### Tools & Platforms  
 [![My Tools](https://skillicons.dev/icons?i=cloudflare,docker,eclipse,elasticsearch,gcp,github,gitlab,linux,mongodb,ubuntu,vscode&theme=light)](https://skillicons.dev)
